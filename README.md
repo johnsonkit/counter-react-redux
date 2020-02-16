@@ -1,6 +1,9 @@
 ## counter-react-redux
 
 The counter application was built by using react and redux.
+
+[Demo](https://johnsonkit.github.io/counter-react-redux/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
